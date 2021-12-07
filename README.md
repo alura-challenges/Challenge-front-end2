@@ -7,4 +7,4 @@ Caso você esteja participando desse Challenge e quer que seu projeto apareça a
 | Pessoa que criou o projeto | Projeto |
 | --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
-|  <!-- CHANNEL_PROJECTS:END -->
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/lenovais56/alurachallengefront2'/>](https://github.com/lenovais56/alurachallengefront2)<!-- CHANNEL_PROJECTS:END -->
