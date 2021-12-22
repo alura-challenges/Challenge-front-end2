@@ -15,7 +15,7 @@ Caso você esteja participando desse Challenge e quer que seu projeto apareça a
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/barba-rossa/aluraDev'/>](https://github.com/barba-rossa/aluraDev)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/rglaubersantiago/alura-challenge-frontend'/>](https://github.com/rglaubersantiago/alura-challenge-frontend)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/WSantos79/alurachallengefront2'/>](https://github.com/WSantos79/alurachallengefront2)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/leandronasx/aluradev'/>](https://github.com/leandronasx/aluradev)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/leandronasx/aluradev'/>](aluradev-five.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/jonathan-yoshikawa/alurachallengefront2'/>](https://github.com/jonathan-yoshikawa/alurachallengefront2)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/allysonbelo/desafio-alura-dev-frontend'/>](https://allysonbelo.github.io/desafio-alura-dev-frontend/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/gustavomarchesim/Alura_Challenge'/>](https://github.com/gustavomarchesim/Alura_Challenge)
