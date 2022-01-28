@@ -9,8 +9,8 @@ Caso você esteja participando desse Challenge e quer que seu projeto apareça a
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/lucastoll/AluraChallenge'/>](https://github.com/lucastoll/AluraChallenge)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/backcost/online-code-editor'/>](https://github.com/backcost/online-code-editor)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/devdan89/Alura-Challenge-Front-End'/>](https://github.com/devdan89/Alura-Challenge-Front-End)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/gc-barros/alura-challenge-frontend'/>](https://aluradev-gabito.vercel.app)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/devdan89/Alura-Challenge-Front-End'/>](https://github.com/devdan89/Alura-Challenge-Front-End)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/rglaubersantiago/alura-challenge-frontend'/>](https://github.com/rglaubersantiago/alura-challenge-frontend)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/barba-rossa/aluraDev'/>](https://github.com/barba-rossa/aluraDev)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/eduardylopes/alura-dev-challenge'/>](alura-dev-challenge-ten.vercel.app)
